@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.dogedice.controllers.NamePlayersWindowTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-12T08:50:07" hostname="Christians-MacBook-Pro.local" time="2.57">
+  <properties/>
+  <testcase name="postInitialization_ControllerCreatesTwoCpuTextFields_WhenGameEngineIsSetToTwoHumansAndTwoCPUs()" classname="com.example.dogedice.controllers.NamePlayersWindowTest" time="1.91"/>
+  <testcase name="confirmButtonClicked_GameEngineCreatesTwoHumanAndTwoCpuPlayers_WhenControllerHasTwoTextFieldsForEach()" classname="com.example.dogedice.controllers.NamePlayersWindowTest" time="0.395"/>
+  <testcase name="postInitialization_ControllerCreatesTwoHumanTextFields_WhenGameEngineIsSetToTwoHumansAndTwoCPUs()" classname="com.example.dogedice.controllers.NamePlayersWindowTest" time="0.264"/>
+  <system-out><![CDATA[Something went wrong when trying to load json.
+Something went wrong when trying to load json.
+Something went wrong when trying to load json.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
